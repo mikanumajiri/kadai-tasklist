@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author numajirimika
- *
- */
-package filters;
